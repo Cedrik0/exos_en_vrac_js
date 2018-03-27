@@ -9,7 +9,7 @@ function exercice04(){
         nbchar++;
         if(message[i] === " "){
             nbmots++;
-            console.log(ligne + " contient " + parseInt(nbchar - 1) + "caractères et est le mot numero " + bnmots);
+            console.log(ligne + " contient " + parseInt(nbchar - 1) + "caractères et est le mot numero " + nbmots);
             nbchar = 0;
             ligne = "";
         }
