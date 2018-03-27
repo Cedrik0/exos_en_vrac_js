@@ -5,7 +5,7 @@ h2{
     text-align: center;
 }
 
-.exercice{
+.exercices{
     border-style: solid;
     border-color: gold;
     border-radius: 8px;
@@ -18,6 +18,9 @@ h3{
 }
 button{
     margin-left: 105px;
+}
+.empty{
+ visibility: hidden;   
 }
 
 /*.container {
