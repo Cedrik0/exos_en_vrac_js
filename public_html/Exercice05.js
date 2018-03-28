@@ -82,4 +82,3 @@ function exercice05(){
     }
     console.log( messageDeRetour);
 }
-
