@@ -51,7 +51,7 @@ function toUpperCase(char) {
             if (char === tableau[i][j]) {
               
             return tableau[i][1];
-          }
-      }
+            }
+        }
     }
 }
